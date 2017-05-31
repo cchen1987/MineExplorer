@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mine Explorer.Plugins", "Mine Explorer.Plugins.csproj", "{5079F84F-E626-0FDA-5B11-DE224475D2BD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mine Explorer", "Mine Explorer.csproj", "{CFCD3AF0-BFE7-E125-D50E-BE8519785073}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mine Explorer.Editor.Plugins", "Mine Explorer.Editor.Plugins.csproj", "{C56367BA-09E8-5419-A33D-D124099CFB0C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5079F84F-E626-0FDA-5B11-DE224475D2BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5079F84F-E626-0FDA-5B11-DE224475D2BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5079F84F-E626-0FDA-5B11-DE224475D2BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5079F84F-E626-0FDA-5B11-DE224475D2BD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CFCD3AF0-BFE7-E125-D50E-BE8519785073}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CFCD3AF0-BFE7-E125-D50E-BE8519785073}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CFCD3AF0-BFE7-E125-D50E-BE8519785073}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CFCD3AF0-BFE7-E125-D50E-BE8519785073}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C56367BA-09E8-5419-A33D-D124099CFB0C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C56367BA-09E8-5419-A33D-D124099CFB0C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C56367BA-09E8-5419-A33D-D124099CFB0C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C56367BA-09E8-5419-A33D-D124099CFB0C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 5c8e69b0853f1904597974495cc0a971
+timeCreated: 1490564868
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Demolition Crack Black
+  fontNames:
+  - Demolition Crack Black
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
